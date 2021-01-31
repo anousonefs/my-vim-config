@@ -1,6 +1,3 @@
-print("perng")
 print("anousone")
-print("perng")
-print("perng")
-print("perng")
+print("anousone")
 print("perng")
