@@ -1,5 +1,0 @@
-print("anousone")
-print("anousone")
-print("perng")
-print("perng")
-print("perng")
